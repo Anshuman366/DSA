@@ -32,10 +32,10 @@ int main(){
     // int c = a/b;
     // cout<< c;
 
-    float a = 10.0; // float/int will always give float
-    int b = 50;
-    float c = a/b;
-    cout<< c;
+    // float a = 10.0; // float/int will always give float
+    // int b = 50;
+    // float c = a/b;
+    // cout<< c;
 
 
 
