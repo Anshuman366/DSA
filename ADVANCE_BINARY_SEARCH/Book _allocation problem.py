@@ -17,7 +17,7 @@ def IsPossible(lst:list , m:int,mid :int):
                 pagesum=lst[i]
     return True          
                 
-def findPages(arr: [int], n=0, m=0) -> int:
+def findPages(arr: list, n=0, m=0) -> int:
     start=0
     
     end=sum(arr)
